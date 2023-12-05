@@ -1,11 +1,11 @@
 const foodItem= [
-    {
+{
     id: 1,
     name: 'Ambur Biryani',
     category : 'biryani',
     rating : 4.3,
     price: 16,
-    img:'./assests/images/ambur.jpeg',
+    img: './assests/images/ambur.jpeg',
     quantity: 1
 },
 {
